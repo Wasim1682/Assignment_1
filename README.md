@@ -1,0 +1,2 @@
+# Assignment_1
+THIS IS THE PYTHON ASSIGNMENT 1
